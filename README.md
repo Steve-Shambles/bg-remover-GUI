@@ -11,8 +11,8 @@ Source code is under MIT Licence.
 The executable program is Freeware.
 
 BG Remover GUI is a simple interface for the
-excellent BackgroundRemover library By Nadermx at GitHub:
-https://github.com/nadermx/backgroundremover
+excellent BackgroundRemover library 
+By Nadermx on GitHub: https://github.com/nadermx/backgroundremover
 
 
 Python requirements to run the code:
