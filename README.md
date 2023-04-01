@@ -22,6 +22,10 @@ pip3 install backgroundremover
 pip3 install Pillow
 pip3 install ffmpeg-python
 
+
+![Alt Text](https://github.com/Steve-Shambles/bg-remover-GUI/blob/main/screenshot01_bgrv1.png)
+
+
 Instructions:
 
 1. Click "Load image" button and choose an image using the file selector.
@@ -44,6 +48,10 @@ Instructions:
 5. You can click on the  "View Saved Images" button any time and 
    your system file browser should pop up and display your saved images
    allowing you to copy, delete or view them as you wish.
+   
+
+![Alt Text](https://github.com/Steve-Shambles/bg-remover-GUI/blob/main/screenshot02_bgrv1.png)
+ 
 
 I wrote this program on a Windows 7 PC using Python V3.67,
 but I see no reason why it should not work on any Windows or
@@ -66,5 +74,6 @@ pyinstaller  bgr_V1.py -n bgr --windowed --onefile
 change "bgr_V1.py" to wahatever the source file you 
 are using is named if different of course.
 
+![Alt Text](https://github.com/Steve-Shambles/bg-remover-GUI/blob/main/screenshot03_bgrv1.png)
 
 Steve Shambles.
