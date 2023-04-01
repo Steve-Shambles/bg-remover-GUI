@@ -8,7 +8,7 @@ BG Remover GUI V1.0
 
 By Steve Shambles (c) April 2023
 Source code is under MIT Licence.
-This program is Freeware.
+The executable program is Freeware.
 
 BG Remover GUI is a simple interface for the
 excellent BackgroundRemover library By Nadermx at GitHub:
