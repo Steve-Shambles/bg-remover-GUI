@@ -16,17 +16,22 @@ https://github.com/nadermx/backgroundremover
 
 
 Python requirements to run the code:
+(as far as I can tell, it's all a bit confusing for this noob)
+
 
 Pip3 install torch
+
 pip3 install backgroundremover
+
 pip3 install Pillow
+
 pip3 install ffmpeg-python
 
 
 ![Alt Text](https://github.com/Steve-Shambles/bg-remover-GUI/blob/main/screenshot01_bgrv1.png)
 
 
-Instructions:
+Program instructions:
 
 1. Click "Load image" button and choose an image using the file selector.
 
