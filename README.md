@@ -1,9 +1,6 @@
 # bg-remover-GUI
 A Tkinter GUI for BackgroundRemover
 
-![Alt Text](https://github.com/Steve-Shambles/bg-remover-GUI/blob/main/screenshot00_bgrv1.png)
-
-
 BG Remover GUI V1.0
 
 By Steve Shambles (c) April 2023
