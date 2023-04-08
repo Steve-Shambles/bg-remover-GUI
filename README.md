@@ -13,7 +13,7 @@ By Nadermx on GitHub: https://github.com/nadermx/backgroundremover
 
 
 Python requirements to run the code:
-(as far as I can tell, it's all a bit confusing for this noob, pireqs says just backgroundremover and Pillow!)
+(as far as I can tell, it's all a bit confusing for this noob, pipreqs says just backgroundremover and Pillow!)
 
 
 Pip3 install torch
