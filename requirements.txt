@@ -1,0 +1,2 @@
+backgroundremover==0.1.9
+Pillow==9.5.0
